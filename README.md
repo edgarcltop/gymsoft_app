@@ -23,9 +23,7 @@
 
 
 ##
-English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md) &nbsp;&nbsp;|&nbsp;&nbsp; [简体中文](README_ZH-CN.md) &nbsp;&nbsp;|&nbsp;&nbsp; [繁體中文](README_ZH-TW.md) &nbsp;&nbsp;|&nbsp;&nbsp; [日本語](README_JA.md)
-
-
+English &nbsp;&nbsp;
 ##
 ### Install
 
@@ -142,20 +140,5 @@ Enable "Allow access to search page results" in the extension management page
 2. Install dependencies with `npm`
 3. `npm run build`
 4. Load `build/chromium/` or `build/firefox/` directory to your browser
-
-
 ##
-
-### 🤔 Questions? Problems? Suggestions?
-
-#### Get help - [Discord 💬](https://discord.gg/jc4xtF58Ve)
-
-[![Join us on Discord](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
-
-##
-
-
-## Credit
-
-This project is inspired by [ZohaibAhmed/ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) and https://github.com/wong2/chatgpt-google-extension
 
